@@ -38,4 +38,4 @@ in the correct format using [moviepy](http://zulko.github.io/moviepy/).
 ## Reference ##
 If you end up using this code or the pre-trained network, we ask you to cite the following paper:
 
-**Naoya Takahashi, Michael Gygli, and Luc Van Gool, "AENet: Learning Deep Audio Features for Video Analysis", arXiv preprint arXiv:1701.00599, 2016.**
+**Naoya Takahashi, Michael Gygli, and Luc Van Gool, "AENet: Learning Deep Audio Features for Video Analysis", arXiv preprint arXiv:1701.00599, 2017.**
