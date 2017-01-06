@@ -1,6 +1,7 @@
 # Audio Event Net #
 
 This README shows how to run AENet which classify the audio events.
+Paper: (https://arxiv.org/abs/1701.00599)
 
 ## Requirements ##
 
@@ -34,6 +35,9 @@ If you would like to extract AENet feature from other format audio files, please
 
 For convenience the class ``aenet.AENet`` contains the function ``write_wav`` which writes the audio stream of a video
 in the correct format using [moviepy](http://zulko.github.io/moviepy/).
+
+## Known problems ##
+Sometimes, write_wav fails, due to a moviepy error. See https://github.com/Zulko/moviepy/pull/377
 
 ## Reference ##
 If you end up using this code or the pre-trained network, we ask you to cite the following paper:
